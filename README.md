@@ -12,6 +12,9 @@ This case study examines the factors influencing housing prices in King County, 
 ## Key Questions
 The hypotheses based on the data gathered:
 
+## Data Used for this Analysis
+The dataset, sourced from Kaggle.com, consists of administrative data from over 21,000 house sales in King County, recorded between May 2014 and May 2015. This publicly available, open-source dataset serves as the foundation for the analysis.
+
 1. An increase in square footage (sqft_living) will result in higher house prices.
 2. Houses built after 1980 are more likely to have higher prices compared to older homes.
 3. Two-story houses are generally associated with higher house prices.
