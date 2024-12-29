@@ -34,14 +34,14 @@ Applying linear regression in machine learning helps identify significant relati
 
 However, the regression output indicates that the relationship is not entirely linear. The data points scattered around the regression line suggest that other factors also influence house prices. Exploring additional techniques such as clustering analysis can provide deeper insights.
 
-2. Clustering Analysis:
+#### 2. Clustering Analysis:
 Clustering analysis allows us to uncover insights that may be overlooked with linear regression. This method treats all variables equally without introducing bias. By applying this machine learning algorithm, we identified three distinct groups of houses: luxurious, mid-range, and affordable.
 
-3. Key Insights:
+#### 3. Key Insights:
 - Houses with the highest price per square foot are predominantly located in densely populated areas, such as Seattle and Bellevue.
 - Square footage (sqft_living) has the strongest influence on house prices, while other factors, such as the number of bedrooms/bathrooms, property condition, and year built, have a relatively minor impact.
 
-4. Next Steps:
+#### 4. Next Steps:
 - Update the Dataset: Collect recent home sales data to analyze price trends over time and validate current market insights.
 - Incorporate Additional Features: Examine the impact of additional factors, such as proximity to amenities, school districts, and neighborhood crime rates, on house prices.
 
