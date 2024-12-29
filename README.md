@@ -20,3 +20,10 @@ The dataset, sourced from Kaggle.com, consists of administrative data from over 
 3. Two-story houses are generally associated with higher house prices.
 4. Future house price trends are expected to remain stable, with a slight upward trajectory.
 5. Significant differences across zip codes will lead to variations in house prices, with some neighborhoods exhibiting higher prices than others.
+
+## Tools
+1. Microsoft Excel
+2. Python
+3. Tableau
+
+Click to see visualizations here: https://public.tableau.com/app/profile/lertkiet.lertchayantee/viz/KingCountyWAHouseSalesAnalysis/Presentation
