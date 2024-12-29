@@ -27,3 +27,22 @@ The dataset, sourced from Kaggle.com, consists of administrative data from over 
 3. Tableau
 
 Click to see visualizations here: https://public.tableau.com/app/profile/lertkiet.lertchayantee/viz/KingCountyWAHouseSalesAnalysis/Presentation
+
+## Conclusion and Recommendations
+#### 1. Linear Regression:
+Applying linear regression in machine learning helps identify significant relationships between variables in the dataset. From this method, we observed that increasing the number of square feet (sqft_living) generally leads to higher house prices. 
+
+However, the regression output indicates that the relationship is not entirely linear. The data points scattered around the regression line suggest that other factors also influence house prices. Exploring additional techniques such as clustering analysis can provide deeper insights.
+
+2. Clustering Analysis:
+Clustering analysis allows us to uncover insights that may be overlooked with linear regression. This method treats all variables equally without introducing bias. By applying this machine learning algorithm, we identified three distinct groups of houses: luxurious, mid-range, and affordable.
+
+3. Key Insights:
+- Houses with the highest price per square foot are predominantly located in densely populated areas, such as Seattle and Bellevue.
+- Square footage (sqft_living) has the strongest influence on house prices, while other factors, such as the number of bedrooms/bathrooms, property condition, and year built, have a relatively minor impact.
+
+4. Next Steps:
+- Update the Dataset: Collect recent home sales data to analyze price trends over time and validate current market insights.
+- Incorporate Additional Features: Examine the impact of additional factors, such as proximity to amenities, school districts, and neighborhood crime rates, on house prices.
+
+
